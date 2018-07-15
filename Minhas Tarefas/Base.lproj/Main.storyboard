@@ -61,14 +61,17 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="ieZ-JG-TCn">
-                                <rect key="frame" x="16" y="111" width="343" height="30"/>
+                                <rect key="frame" x="16" y="111" width="343" height="120"/>
                                 <color key="tintColor" red="0.98653692007064819" green="0.63427442312240601" blue="0.14771148562431335" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="120" id="re3-LI-4aj"/>
+                                </constraints>
                                 <nil key="textColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dwI-6x-sGA">
-                                <rect key="frame" x="84" y="149" width="207" height="30"/>
+                                <rect key="frame" x="84" y="239" width="207" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="UFI-ea-D8Y"/>
                                 </constraints>
