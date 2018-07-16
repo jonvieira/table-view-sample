@@ -14,6 +14,7 @@
 		BB68CCBC2048C8F900269AB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB68CCBA2048C8F900269AB0 /* LaunchScreen.storyboard */; };
 		BB68CCC42048D06000269AB0 /* TarefaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB68CCC32048D06000269AB0 /* TarefaViewController.swift */; };
 		BB68CCC62048D41500269AB0 /* TarefaAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB68CCC52048D41500269AB0 /* TarefaAdapter.swift */; };
+		BB95E38E20FC150F0000FE0F /* post-it.png in Resources */ = {isa = PBXBuildFile; fileRef = BB95E38D20FC150E0000FE0F /* post-it.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BB68CCBD2048C8F900269AB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BB68CCC32048D06000269AB0 /* TarefaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarefaViewController.swift; sourceTree = "<group>"; };
 		BB68CCC52048D41500269AB0 /* TarefaAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarefaAdapter.swift; sourceTree = "<group>"; };
+		BB95E38D20FC150E0000FE0F /* post-it.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "post-it.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		BB68CCB02048C8F900269AB0 /* Minhas Tarefas */ = {
 			isa = PBXGroup;
 			children = (
+				BB95E38D20FC150E0000FE0F /* post-it.png */,
 				BB68CCB12048C8F900269AB0 /* AppDelegate.swift */,
 				BB68CCB32048C8F900269AB0 /* ViewController.swift */,
 				BB68CCB52048C8F900269AB0 /* Main.storyboard */,
@@ -131,6 +134,7 @@
 			files = (
 				BB68CCBC2048C8F900269AB0 /* LaunchScreen.storyboard in Resources */,
 				BB68CCB92048C8F900269AB0 /* Assets.xcassets in Resources */,
+				BB95E38E20FC150F0000FE0F /* post-it.png in Resources */,
 				BB68CCB72048C8F900269AB0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
